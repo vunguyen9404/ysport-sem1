@@ -1,3 +1,2 @@
-# basicgit
-#Front-End Uploaded
-YSPORT Project
+## YSPORT PROJECT
+My project SEM 1, C1609I, FPT Aptech
